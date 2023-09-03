@@ -14,3 +14,8 @@ O Sistema consiste em automatizar tarefa de buscar dados de ações da bolsa de 
 - pyperclip
 - yfinance
 - time
+
+# Autor
+Marco Aurélio de Oliveira Guedes
+
+www.linkedin.com/in/marco-guedes-maguedes
